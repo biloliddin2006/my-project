@@ -1330,4 +1330,8 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 ## Release notes
 
-Check GitHub [Releases](https://github.com/Microsoft/tslint-microsoft-contrib/releases) for individual release notes or [CHANGELOG.md](./CHANGELOG.md) for full project changelog.
+Check GitHub [Releases](https://github.com/Microsoft/tslint-microsoft-contrib/releases) for individual release notes or [CHANGELOG.md]
+
+(./CHANGELOG.md) for full project changelog.
+
+//End of the code
