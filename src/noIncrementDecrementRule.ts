@@ -1,7 +1,6 @@
 import * as ts from 'typescript';
 import * as Lint from 'tslint';
 import * as tsutils from 'tsutils';
-
 import { ExtendedMetadata } from './utils/ExtendedMetadata';
 
 const OPTION_ALLOW_FOR_LOOPS = 'allow-for-loops';
