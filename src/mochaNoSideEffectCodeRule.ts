@@ -1,7 +1,6 @@
 import * as ts from 'typescript';
 import * as Lint from 'tslint';
 import * as tsutils from 'tsutils';
-
 import { ExtendedMetadata } from './utils/ExtendedMetadata';
 import { AstUtils } from './utils/AstUtils';
 import { MochaUtils } from './utils/MochaUtils';
